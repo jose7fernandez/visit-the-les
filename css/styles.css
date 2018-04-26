@@ -128,8 +128,10 @@ footer {
     nav li {
         margin-left: auto;
         margin-right: auto;
-        font-size: 14px;
-        padding-bottom: 15px;
+        margin-top: 10px;
+        font-size: 15px;
+        padding: 5px;
+       
     }
     nav a:hover {
         font-size: 15px;
@@ -141,9 +143,11 @@ footer {
     header h1 {
         display: block;
         margin-top: 30px;
-        margin-bottom: 30px
+        margin-bottom: 30px;
+        
     }
     article {
-        margin-top: 20px;
+        margin-top: 40px;
+        
     }
 }
