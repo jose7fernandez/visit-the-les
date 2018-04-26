@@ -19,16 +19,19 @@ nav {
 }
 
 nav ul {
+    margin-left: -40px;
     width: 100%;
+    text-align: center;
 }
 
 nav li {
     display: inline-block;
     list-style: none;
-    width: 20%;
+    width: 15%;
     text-align: center;
     text-decoration: none;
     padding: 10px;
+    
 }
 
 nav a {
@@ -138,8 +141,7 @@ footer {
     nav .current a {
         font-size: 15px;
     }
-    nav ul {
-        margin-left: -40px;
+  
     }
     header h1 {
         display: block;
