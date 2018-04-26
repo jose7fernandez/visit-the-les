@@ -131,7 +131,6 @@ footer {
         margin-top: 10px;
         font-size: 15px;
         padding: 5px;
-       
     }
     nav a:hover {
         font-size: 15px;
@@ -140,14 +139,15 @@ footer {
     nav .current a {
         font-size: 15px;
     }
+    .places {
+        margin-bottom: -50px;
+    }
     header h1 {
         display: block;
         margin-top: 30px;
         margin-bottom: 30px;
-        
     }
     article {
         margin-top: 40px;
-        
     }
 }
